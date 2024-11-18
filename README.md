@@ -1,2 +1,3 @@
-# Animate
-Trying to learn some basic animation
+# Animation 
+Exploring the fundamentals of animation and learning the basics.
+
